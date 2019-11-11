@@ -3,5 +3,10 @@
     { "id": 1, "name" : "John", "age" : 21 },
     { "id": 2, "name" : "Judy", "age" : 31 },
     { "id": 3, "name" : "Jake", "age" : 41 }
+  ],
+  "employees" : [
+    { "id": 1, "name" : "Pavan", "age" : 30 },
+    { "id": 2, "name" : "Suvarna", "age" : 26 },
+    { "id": 3, "name" : "Harsha", "age" : 30 }
   ]
 }
